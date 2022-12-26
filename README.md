@@ -1,8 +1,9 @@
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
-
-
+## Hello!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandresouto/?hl=pt-br)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="250px" align="right" alt="Computador iuriCode">
+
+
 
 ![AlexandreSouto GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreSout0&show_icons=true&theme=dracula&count_private=true)
 
