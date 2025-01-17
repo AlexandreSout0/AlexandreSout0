@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,opencv,raspberrypi,py,git,arduino,neovim&theme=light" />
   </a>
 </p>
-<p align="center">
+
 ### DevOps
 <p align="center">
   <a href="https://skillicons.dev">
