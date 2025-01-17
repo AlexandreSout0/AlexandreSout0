@@ -19,7 +19,7 @@
 </p>
 
 ### DevOps
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,bash,git,vim,nginx&theme=light" />
   </a>
