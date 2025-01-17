@@ -1,6 +1,7 @@
-## #/bin/bash 🏴‍☠️ 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="left" alt="Computador iuriCode">
-
+## #/bin/bash 🏴‍☠️
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" alt="Computador iuriCode">
+</div>
 
 ### Back-End
 <p align="left">
