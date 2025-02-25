@@ -6,7 +6,7 @@
 ### Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,spring,kotlin,ocaml,postgres,redis,py,idea,go,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,java,spring,kotlin,kafka,ocaml,postgres,redis,py,idea,go,&theme=light" />
   </a>
 </p>
 
