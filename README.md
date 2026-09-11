@@ -1,16 +1,15 @@
 ## #/bin/bash 🏴‍☠️
-<div style="text-align: center; margin: 20px 0;">
+<!-- <div style="text-align: center; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" alt="Computador iuriCode">
-</div>
-
+</div> -->
 
  <picture>
-    <img alt="AlexandreSout0" src="https://raw.githubusercontent.com/AlexandreSout0/AlexandreSout0/github-stats.svg">
+    <img alt="AlexandreSout0" src="https://raw.githubusercontent.com/AlexandreSout0/AlexandreSout0/85df2efe69f8aba7863fdf5cf459ac788750a8ce/github-stats.svg">
 </picture>
 
 <a href="https://github.com/AlexandreSout0/AlexandreSout0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreSout0/AlexandreSout0/github-stats.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreSout0/AlexandreSout0/85df2efe69f8aba7863fdf5cf459ac788750a8ce/github-stats.svg">
   </picture>
 </a>
 
